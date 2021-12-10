@@ -1,0 +1,32 @@
+.front_center { 
+    color: rgb(189, 189, 189);
+    font-family: garamond, serif;
+}
+
+.school { 
+    color:rgba(0, 0, 255, 0.562);
+}
+
+.work { 
+    color: green;
+}
+
+.service { 
+    color: red;
+}
+
+a:link {
+    color: blue;
+}
+a:visited {
+    color:purple;
+}
+
+.web_links {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 100px;
+}
+
+.img_size {
+    width: 600px;
+}
